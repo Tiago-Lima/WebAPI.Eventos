@@ -16,6 +16,7 @@ obj
 /bazel-out
 
 # dependencies
+/ProAgil-App/node_modules
 /node_modules
 
 # profiling files
@@ -33,6 +34,7 @@ speed-measure-plugin*.json
 
 # IDE - VSCode
 .vs
+/.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
