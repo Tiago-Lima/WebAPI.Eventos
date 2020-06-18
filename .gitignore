@@ -16,6 +16,7 @@ obj
 /bazel-out
 
 # dependencies
+./ProAgil-App/node_modules
 /ProAgil-App/node_modules
 /node_modules
 
